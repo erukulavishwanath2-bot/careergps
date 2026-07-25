@@ -10,7 +10,8 @@ import {
   User, 
   Mail, 
   Briefcase, 
-  GraduationCap
+  GraduationCap,
+  X
 } from 'lucide-react';
 
 export const ResumeBuilderView: React.FC = () => {
