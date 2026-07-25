@@ -70,7 +70,8 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'First Role & Specialization',
         title: 'Junior AI Engineer / Research Scientist',
         description: 'Ship fine-tuned AI models into production applications and continuously optimize inference costs.',
-        estimatedDuration: 'Ongoing'
+        resources: [],
+        estimatedDuration: 'Ongoing',
       }
     ]
   },
@@ -117,6 +118,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Hands-on Labs',
         title: 'Capture The Flag (CTF) & Bug Bounties',
         description: 'Participate in global CTF security events and report security flaws on HackerOne.',
+        resources: [],
         estimatedDuration: '1 Year'
       }
     ]
@@ -154,6 +156,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'College / Self-Taught Path',
         title: 'React, Node.js & Database Systems',
         description: 'Learn modern single page app frameworks, backend routing, state management, and SQL/NoSQL databases.',
+        resources: [],
         estimatedDuration: '2 Years'
       },
       {
@@ -161,6 +164,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Portfolio & Internship',
         title: 'Ship 3 Full-Stack SaaS Apps',
         description: 'Deploy real applications to Vercel/AWS with user authentication, database integration, and payment gateways.',
+        resources: [],
         estimatedDuration: '1 Year'
       }
     ]
@@ -188,6 +192,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Foundations',
         title: 'Statistics, Probability & Python Pandas',
         description: 'Build fluency in hypothesis testing, data wrangling with Pandas and NumPy.',
+        resources: [],
         estimatedDuration: '1 Year'
       },
       {
@@ -195,6 +200,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'University / Specialization',
         title: 'Degree in Data Analytics or Computer Science',
         description: 'Deep dive into predictive analytics, SQL databases, and machine learning algorithms.',
+        resources: [],
         estimatedDuration: '4 Years'
       }
     ]
@@ -222,6 +228,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Exploration',
         title: 'Master Figma & Graphic Principles',
         description: 'Learn color theory, grid systems, typography scale, and layout fundamentals.',
+        resources: [],
         estimatedDuration: '6 Months'
       },
       {
@@ -229,6 +236,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Portfolio Building',
         title: 'Create 3 End-to-End Case Studies',
         description: 'Solve real user pain points, document design research, wireframes, and high-fidelity interactive Figma prototypes.',
+        resources: [],
         estimatedDuration: '1 Year'
       }
     ]
@@ -256,6 +264,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'High School',
         title: 'Biology, Physics & Chemistry Mastery',
         description: 'Excel in AP Biology, Physics, and Advanced Mathematics.',
+        resources: [],
         estimatedDuration: '2 Years'
       },
       {
@@ -263,6 +272,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'College Degree',
         title: 'B.S. in Biomedical Engineering',
         description: 'Complete hands-on laboratory courses in biomaterials, biomechanics, and medical imaging.',
+        resources: [],
         estimatedDuration: '4 Years'
       }
     ]
@@ -290,6 +300,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Foundations',
         title: 'Accounting & Economics Basics',
         description: 'Understand macroeconomics, balance sheets, income statements, and cash flows.',
+        resources: [],
         estimatedDuration: '1 Year'
       },
       {
@@ -297,6 +308,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'College & CFA',
         title: 'B.S. in Finance / Quant Economics + CFA Level 1',
         description: 'Master corporate finance, financial derivatives, and quantitative portfolio management.',
+        resources: [],
         estimatedDuration: '4 Years'
       }
     ]
@@ -324,6 +336,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Basics',
         title: 'SEO & Copywriting Fundamentals',
         description: 'Learn audience research, keyword strategy, and storytelling principles.',
+        resources: [],
         estimatedDuration: '6 Months'
       }
     ]
@@ -351,6 +364,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Ideation',
         title: 'Identify Problems & Build MVPs',
         description: 'Validate market demand, launch rapid prototypes, and talk to 100 prospective users.',
+        resources: [],
         estimatedDuration: '1 Year'
       }
     ]
@@ -378,6 +392,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Undergraduate',
         title: 'Bachelor Degree & LSAT Preparation',
         description: 'Maintain high GPA and score competitively on the Law School Admission Test (LSAT).',
+        resources: [],
         estimatedDuration: '4 Years'
       },
       {
@@ -385,6 +400,7 @@ export const CAREERS_DATA: CareerItem[] = [
         stage: 'Law School',
         title: 'J.D. Degree & Law Review',
         description: 'Complete contracts, torts, constitutional law, and corporate IP specialization.',
+        resources: [],
         estimatedDuration: '3 Years'
       }
     ]
